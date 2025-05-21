@@ -1,6 +1,5 @@
 # Simple Autofill Input
 
 Stack used:
-React JS
-Vite
+React JS + Vite
 
