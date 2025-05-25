@@ -38,9 +38,9 @@ In the **package.json** file add the entries **"predeploy": "npm run build"** an
     "deploy": "gh-pages -d dist"    //Add this
   },
 ```
-3. Run **npm run deploy** to deploy the website
+3. Run **npm run deploy** to deploy the website  
 
-### Note: Its going to create a new branch **gh-pages** where github actions is going to build the page and deploy 
+### Note: Its going to create a new branch gh-pages where github actions is going to build the page and deploy
 
 
 
