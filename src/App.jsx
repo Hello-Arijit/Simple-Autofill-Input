@@ -452,6 +452,10 @@ function App()
 }}>
       <h1 style={{ fontWeight: '550', fontFamily: 'Arial', color: '#007BFF', fontSize: '50px' }}>SearchPro</h1>
       <SimpleAutofill/>
+      <h1 >
+         <a href="https://github.com/Hello-Arijit/Simple-Autofill-Input.git" target="_blank" style={{position: "fixed", bottom: "10px", right: "10px",  fontFamily: 'Arial', color: '#007BFF', fontSize: '16px', textDecoration: "none" }}>
+         Click here to go to repositoy</a>
+      </h1>
     </div>
   );
 }
