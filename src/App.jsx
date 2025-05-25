@@ -454,7 +454,7 @@ function App()
       <SimpleAutofill/>
       <h1 >
          <a href="https://github.com/Hello-Arijit/Simple-Autofill-Input.git" target="_blank" style={{position: "fixed", bottom: "10px", right: "10px",  fontFamily: 'Arial', color: '#007BFF', fontSize: '16px', textDecoration: "none" }}>
-         Click here to go to repositoy</a>
+         Click here to go to the repository</a>
       </h1>
     </div>
   );
