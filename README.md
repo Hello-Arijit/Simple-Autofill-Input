@@ -4,7 +4,7 @@
 
 Stack used:  
 React JS  
-Vite  
+Vite Build  
 NPM  
 
 Requisites for hosting on github pages:  
