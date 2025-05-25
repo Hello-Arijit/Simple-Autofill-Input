@@ -12,14 +12,14 @@ Requisites for hosting on github pages:
 1. Install Github Pages package using **npm install gh-pages**  
 2. In the react workspace folder  
 
-### In the **vite.config.js** file add an entry **base: "/[Repository Name]"** under **defineConfig**
+In the **vite.config.js** file add an entry **base: "/[Repository Name]"** under **defineConfig**
 ```
 export default defineConfig({
   plugins: [react()],
   base: "/Simple-Autofill-Input",
 })
 ```
-### In the **package.json** file add an entry **"homepage": "https://[Github username].github.io/[Repository Name]/"**  
+In the **package.json** file add an entry **"homepage": "https://[Github username].github.io/[Repository Name]/"**  
 ```
   "name": "simple-autofill-input",
   "homepage": "https://hello-arijit.github.io/Simple-Autofill-Input/",
@@ -27,7 +27,7 @@ export default defineConfig({
   "version": "0.0.0",
   "type": "module",
 ```
-### In the **package.json** file add the entries **"predeploy": "npm run build"** and **"deploy": "gh-pages -d dist"** under **scripts**  
+In the **package.json** file add the entries **"predeploy": "npm run build"** and **"deploy": "gh-pages -d dist"** under **scripts**  
 ```
   "scripts": {
     "dev": "vite",
