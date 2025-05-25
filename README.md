@@ -1,6 +1,6 @@
 # Simple Autofill Input
 
-## Hosted on Github Pages [Here](https://hello-arijit.github.io/Simple-Autofill-Input/)
+## Hosted on Github Pages [Here](https://hello-arijit.github.io/Simple-Autofill-Input/){:target="_blank"}
 
 Stack used:  
 React JS  
